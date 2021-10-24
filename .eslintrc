@@ -24,6 +24,7 @@
     "arrow-parens": ["error", "as-needed"], // require the use of parenthesis when needed
     "react/jsx-filename-extension": 0,
     "react/prop-types": 0,
+    "linebreak-style": ["error", "windows"],
     "no-plusplus": 0,
     "max-len": 0,
     "react/jsx-props-no-spreading": 0,
