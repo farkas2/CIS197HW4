@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Title from './components/Title'
-import Post from './components/Post'
+import Post from './components/post'
 import CommentList from './components/commentList'
  
 const App = () => {
